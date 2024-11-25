@@ -1,0 +1,64 @@
+{
+  "produtos": [
+    {
+      "nome": "Darth Vader",
+      "preco": "20",
+      "imagem": "https://www.hallmark.com/on/demandware.static/-/Sites-hallmark-master/default/dwc5506926/images/finished-goods/products/3HCM3121/Darth-Vader-Funko-Christmas-Ornament_3HCM3121_01.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Superman",
+      "preco": "25",
+      "imagem": "https://m.media-amazon.com/images/I/51Gz9ZOzPKL.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Batman",
+      "preco": "40",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-batman-1187-the-batman-dc-comics-73061/259548.jpg?w=540&h=540&v=no-change&qs=ignore",
+      "id": 3
+    },
+    {
+      "nome": "Homem de Ferro",
+      "preco": "30",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-iron-man-tech-suit-game-verse-626-avengers-endgame-vingadores-ultimato-marvel-71474/257959.jpg?w=540&h=540&v=no-change&qs=ignore",
+      "id": 4
+    },
+    {
+      "nome": "Mulher Gato",
+      "preco": "50",
+      "imagem": "https://casaevideonewio.vtexassets.com/arquivos/ids/3098017/16643054782504.jpg?v=638001636206800000",
+      "id": 5
+    },
+    {
+      "nome": "Homem Aranha",
+      "preco": "40",
+      "imagem": "https://lojaarenagames.com.br/wp-content/uploads/2022/06/Funko_Pop_Spider_Man_03___Homem_Aranha___Marvel_98561-1.jpg",
+      "id": 6
+    },
+    {
+      "nome": "Mulher Maravilha",
+      "preco": "50",
+      "imagem": "https://a-static.mlcdn.com.br/800x560/funko-pop-heroes-mulher-maravilha-cape-diamond-433/chsolucoescrz/05c2cf9c35d411edb58b4201ac185019/e5d47dfc5a4c466e4322c44f50557ffb.jpeg",
+      "id": 7
+    },
+    {
+      "nome": "Mulher Incrível",
+      "preco": "35",
+      "imagem": "https://geekfanaticos.fbitsstatic.net/img/p/funko-pop-invisible-girl-558-mulher-invisivel-fantastic-four-quarteto-fantastico-marvel-71594/258079.jpg?w=540&h=540&v=no-change&qs=ignore",
+      "id": 8
+    },
+    {
+      "nome": "Mulher Falcão",
+      "preco": "20",
+      "imagem": "https://www.nerdforever.com.br/image/cache/catalog/Colecion%C3%A1veis/Funko/wonderwoman1-1200x1200.png",
+      "id": 9
+    },
+    {
+      "nome": "Batwoman",
+      "preco": "60",
+      "imagem": "https://i5.walmartimages.com/seo/Funko-Pop-DC-Super-Heroes-Batgirl-Black-and-Yellow-Exclusive-Vinyl-Figure_d489b0fe-7447-40f5-a5e2-6e4f3e5d90bd.6f5346e6c7e5004b4712dbece4a769e0.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+      "id": 10
+    }
+  ]
+}

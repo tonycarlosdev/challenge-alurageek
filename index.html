@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+  <title>Alura Geek</title>
+</head>
+
+<body>
+  <header class="header__container">
+    <img class="header__logo" src="/assets/logo-alura-geek.png" alt="logo alura geek">
+    <h1 class="header__titulo">AluraGeek</h1>
+  </header>
+
+  <main class="main__container">
+    <section>
+      <h1>Meus Produtos:</h1>
+      <div class="container-cards">
+        <div data-product class="products-container">
+    <!-- <div class="img-container">
+            <img src="https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp" alt="imagem produto">
+          </div>
+          <div class="card-container--info">
+            <p>Produto</p>
+            <div class="card-container--value">
+              <p>R$ 50</p>
+              <button class="delete-button" data-id="${id}">
+                <img src="/assets/Vector.png" alt="Eliminar">
+              </button>
+            </div>
+          </div> -->
+        </div>        
+    </section>
+
+    <section>
+      <h1 class="h1Formulary">Agregar Produto:</h1>
+      <form data-form class="form-container">
+        <input data-name placeholder="nome..." type="text">
+        <input data-price placeholder="preço..." type="text">
+        <input data-image placeholder="imagem..." type="text">
+        <span data-mensage class="mensage-error"></span>
+        <div class="button-container">
+          <button type="submit" class="button-submit" id="button-submit">Guardar</button>
+          <button type="reset" class="button-clear" id="button-reset">Limpar</button>
+        </div>
+      </form>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="footer__logo-titulo">
+      <img class="header__logo" src="/imgs/logo-alura-geek.png" alt="logo alura geek">
+      <h2>AluraGeek</h2>
+    </div>
+    <p>Desenvolvido por Tony Carlos</p>
+    <p>Alura Latam - 2024</p>
+  </footer>
+
+</body>
+<script type="module" src="/js/controllers/main.js"></script>
+</html>
